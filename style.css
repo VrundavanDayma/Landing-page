@@ -48,7 +48,7 @@
  }
 
  .hero-text {
-     color: white;
+     color: rgb(252, 10, 10);
      height: 80vh;
      display: flex;
      flex-direction: column;
